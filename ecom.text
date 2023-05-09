@@ -1,0 +1,18 @@
+ecom:
+product view,filter,addtocart,order,payment
+invoice,
+
+users:
+end user=>
+vendor=>
+admin
+
+End user:
+product view,filter,addtocart,payment,invoice
+
+vendor:
+upload product,order ,report=>payment,order report,shipping
+
+admin:
+user management
+order management
